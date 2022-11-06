@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&animation=twinkling&desc=%20amazingkj's%20GitHub%20&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=75bde0&height=200&section=header&text=HELLO&fontSize=45)
 
 
 |&nbsp;&nbsp;&nbsp;&nbsp;[PROFILE](#)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
