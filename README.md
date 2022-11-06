@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 |&nbsp;&nbsp;&nbsp;&nbsp;[PROFILE](#)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project3 - Spring Boot 골프 커뮤니티](https://github.com/Helicorn/golf_test)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project2 - MVC model 2 골프 커뮤니티](https://github.com/amazingkj/project_workspacet)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;[Project2 - MVC model 2 골프 커뮤니티](https://github.com/amazingkj/project_workspace)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project1 - Swing UI 배달서비스](https://github.com/amazingkj/DeliveryService_Kong_Swing)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 
 
