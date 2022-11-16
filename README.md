@@ -47,6 +47,5 @@ Here are some ideas to get you started:
  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingkj&layout=compact)<br/>
-![amazingkj's GitHub stats](https://github-readme-stats.vercel.app/api?username=amazingkj&show_icons=true&hide=contribs,prs)<br/><br/>
 ![footer](https://capsule-render.vercel.app/api?color=75bde0&height=150&type=waving&section=footer)
  </div>
