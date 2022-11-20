@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project2 - MVC model 2 골프 커뮤니티](https://github.com/amazingkj/project_workspace)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project1 - Swing UI 배달서비스](https://github.com/amazingkj/DeliveryService_Kong_Swing)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 
-
- 
- ### 🌱 I’m currently learning ...
- ##### Techs that I've used at least once
+ ### 🌱 Techs 🌱
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-F43059?style=for-the-badge&logo=jQuery&logoColor=white"/> <br/><br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br/><br/>
+<img src="https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-181717?style=for-the-badge&logo=Fluentd&logoColor=white"/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
@@ -44,8 +46,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/><br/>
 <br/>
 
- 
- 
+                   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingkj&layout=compact)<br/>
 ![footer](https://capsule-render.vercel.app/api?color=75bde0&height=150&type=waving&section=footer)
  </div>
