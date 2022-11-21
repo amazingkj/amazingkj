@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project3 - Spring Boot 골프 커뮤니티](https://github.com/amazingkj/golforyou)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project2 - MVC model 2 골프 커뮤니티](https://github.com/amazingkj/project_workspace)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
 |&nbsp;&nbsp;&nbsp;&nbsp;[Project1 - Swing UI 배달서비스](https://github.com/amazingkj/DeliveryService_Kong_Swing)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;[Git blog](amazingkj.github.io)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;[Git blog]((https://amazingkj.github.io)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
  ### 🌱 Techs 🌱
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
