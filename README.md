@@ -49,7 +49,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
 <br/>
-<br/>
+<img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Cloud Data Flow-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<br/><br/>
                    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingkj&layout=compact)<br/>
 ![footer](https://capsule-render.vercel.app/api?color=75bde0&height=150&type=waving&section=footer)
