@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jQuery-F43059?style=for-the-badge&logo=jQuery&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Cloud Data Flow-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br/>
 <img src="https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=JPA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-181717?style=for-the-badge&logo=Fluentd&logoColor=white"/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -33,8 +35,10 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### ⚡ My tools ⚡  
+ 
 <a href="mailto: jiin724@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://github.com/amazingkj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=Spring&logoColor=white">
 <a href="#none"><img src="https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><br/>
@@ -45,8 +49,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Cloud Data Flow-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Spring&logoColor=white">
 <br/><br/>
                    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingkj&layout=compact)<br/>
