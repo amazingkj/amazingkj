@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=75bde0&height=200&section=header&text=&fontSize=45)
 
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project3 - Spring Boot 골프 커뮤니티](https://github.com/amazingkj/golforyou)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project2 - MVC model 2 골프 커뮤니티](https://github.com/amazingkj/project_workspace)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;[Project1 - Swing UI 배달서비스](https://github.com/amazingkj/DeliveryService_Kong_Swing)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
-|&nbsp;&nbsp;&nbsp;&nbsp;[Git blog](https://amazingkj.github.io)&nbsp;&nbsp;&nbsp;&nbsp;|<br/>
- ### 🌱 Techs 🌱
+ #### 🌱 Techs 🌱
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,14 +32,14 @@ Here are some ideas to get you started:
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ⚡ My tools ⚡  
+#### ⚡ My tools ⚡  
 <a href="mailto: jiin724@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 <a href="https://github.com/amazingkj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <a href="#none"><img src="https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><br/>
 
-### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
