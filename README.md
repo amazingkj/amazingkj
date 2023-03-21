@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Spring&logoColor=white">
 <br/><br/>
                    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amazingkj&layout=compact)<br/>
